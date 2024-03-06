@@ -1,5 +1,7 @@
 # P7_Webgencia
 
+![Integrateur_Web-OpenclassRoom](./assets/images/logo.png) 
+
 Projet 7 de la formation OpenclassRooms : Planifiez le développement du site de votre client
 
 Résumé du scénario : 
